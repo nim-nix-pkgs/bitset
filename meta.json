@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/joryschossau/bitset",
   "refs": [
-    "fatal: unable to access 'https://github.com/joryschossau/bitset/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
+    "fatal: unable to access 'https://github.com/joryschossau/bitset/': SSL connection timeout",
     ""
   ],
   "heads": []
